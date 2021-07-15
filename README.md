@@ -1,4 +1,4 @@
-https://jenniecinelli.github.io/plot.ly-challenge/
+
 
 # Plot.ly Homework - Belly Button Biodiversity
 
